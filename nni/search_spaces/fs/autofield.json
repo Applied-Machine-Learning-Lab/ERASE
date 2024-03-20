@@ -1,3 +1,0 @@
-{
-    "fs_update_frequency": {"_type": "choice", "_value": [5,10,15,20,30]}
-}

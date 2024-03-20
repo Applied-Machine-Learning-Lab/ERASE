@@ -1,4 +1,0 @@
-{
-    "fs_epochs": {"_type": "choice", "_value": [5,10,15]},
-    "fs_gamma": {"_type": "choice", "_value": [200,500,1000,2000,5000,10000]}
-}

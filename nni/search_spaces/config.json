@@ -1,4 +1,0 @@
-{
-    "k": {"_type": "randint", "_value": [15,23]},
-    "learning_rate": {"_type": "choice", "_value": [0.001, 0.0005, 0.0001]}
-}
