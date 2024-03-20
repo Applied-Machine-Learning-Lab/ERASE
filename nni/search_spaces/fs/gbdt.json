@@ -1,0 +1,10 @@
+{
+    "fs_learning_rate": {"_type": "choice", "_value": [0.1,0.01,0.001,0.0001]},
+    "fs_n_estimators": {"_type": "choice", "_value": [50,100,200]},
+    "fs_subsample": {"_type": "choice", "_value": [0.5, 0.7, 1.0]},
+    "fs_min_samples_split": {"_type": "choice", "_value": [2, 4, 8, 16]},
+    "fs_min_samples_leaf": {"_type": "choice", "_value": [1, 2, 4, 8, 16]},
+    "fs_min_weight_fraction_leaf": {"_type": "choice", "_value": [0.0, 0.3, 0.5]},
+    "fs_max_depth": {"_type": "choice", "_value": [3, 6, 9]},
+    "fs_n_iter_no_change": {"_type": "choice", "_value": [null, 3, 6, 9]}
+}

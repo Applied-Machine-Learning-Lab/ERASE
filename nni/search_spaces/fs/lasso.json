@@ -1,0 +1,9 @@
+{
+    "fs_alpha": {"_type": "choice", "_value": [0.0001,0.001,0.01,0.1,1.0]},
+    "fs_fit_intercept": {"_type": "choice", "_value": [true, false]},
+    "fs_copy_X": {"_type": "choice", "_value": [true,false]},
+    "fs_max_iter": {"_type": "choice", "_value": [100,200,500,1000,2000]},
+    "fs_tol": {"_type": "choice", "_value": [1e-5,1e-4,1e-3,1e-2]},
+    "fs_positive": {"_type": "choice", "_value": [true,false]},
+    "fs_selection": {"_type": "choice", "_value": ["cyclic","random"]}
+}
