@@ -80,3 +80,19 @@ python data/preprocess.py --dataset=[avazu/criteo] --data_path=[default is data/
 ```bash
 python fs_run.py --model=[model_name] --fs=[feature_selection_method] --train_or_search=True --retrain=True
 ```
+
+
+
+# More experimental results
+
+1. Overall experimental results of feature selection for deep recommender systems.
+
+   ![image-20240618142823898](https://raw.githubusercontent.com/Jia-py/blog_picture/master/img/image-20240618142823898.png)
+
+2. Experimental results on more backbone models with different number of selected features on Avazu.
+
+![image-20240618142657795](https://raw.githubusercontent.com/Jia-py/blog_picture/master/img/image-20240618142657795.png)
+
+3. Experimental results on more backbone models with different number of selected features on Criteo.
+
+![image-20240618142731324](https://raw.githubusercontent.com/Jia-py/blog_picture/master/img/image-20240618142731324.png)
