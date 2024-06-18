@@ -87,7 +87,7 @@ python fs_run.py --model=[model_name] --fs=[feature_selection_method] --train_or
 
 1. Overall experimental results of feature selection for deep recommender systems.
 
-   ![image-20240618142823898](https://raw.githubusercontent.com/Jia-py/blog_picture/master/img/image-20240618142823898.png)
+   <img src="https://raw.githubusercontent.com/Jia-py/blog_picture/master/img/image-20240618142823898.png" alt="image-20240618142823898" style="zoom: 80%;" />
 
 2. Experimental results on more backbone models with different number of selected features on Avazu.
 
