@@ -6,7 +6,7 @@
 
 In this repo, our scripts can be divided to two parts: `dataset preprocess` and `run fs`.
 
-You can also download the preprocessed dataset from the cloud disk [ERASE_Dataset](https://portland-my.sharepoint.com/:f:/g/personal/pyjia2-c_my_cityu_edu_hk/Eig99ijVRYZHuo6mBrJA5jIBioFU8vwATcRYeLLlYFSUAg)
+You can also download the preprocessed dataset from Huggingface [ERASE_Dataset](https://huggingface.co/datasets/Jia-py/ERASE_Dataset)
 
 Please note that you need to run the following script from the root directory of the project.
 
