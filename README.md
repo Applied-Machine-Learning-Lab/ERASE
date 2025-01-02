@@ -96,3 +96,17 @@ python fs_run.py --model=[model_name] --fs=[feature_selection_method] --train_or
 3. Experimental results on more backbone models with different number of selected features on Criteo.
 
 ![image-20240618142731324](https://raw.githubusercontent.com/Jia-py/blog_picture/master/img/image-20240618142731324.png)
+
+
+# Citation
+
+If you find our work useful, please consider citing our paper below. Thank you!
+```
+@inproceedings{jia2024erase,
+  title={ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems},
+  author={Jia, Pengyue and Wang, Yejing and Du, Zhaocheng and Zhao, Xiangyu and Wang, Yichao and Chen, Bo and Wang, Wanyu and Guo, Huifeng and Tang, Ruiming},
+  booktitle={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={5194--5205},
+  year={2024}
+}
+```
